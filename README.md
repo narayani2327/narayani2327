@@ -8,7 +8,7 @@ I am a 3rd BE CSE student in NIE, Mysore. I love learning new things and impleme
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [harikalanarayani@gmail.com](mailto:harikalanarayani@gmail.com)
-* 🧠  I'm learning REACT and Flask
+* 🧠  I'm learning React and Flask
 
 ### Skills
 
