@@ -38,11 +38,11 @@ I am a 3rd BE CSE student in NIE, Mysore. I love learning new things and impleme
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/narayani2327"><img src="https://github-readme-stats.vercel.app/api?username=narayani2327&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="narayani2327's GitHub stats" /></a>
+<a href="http://www.github.com/narayani2327"><img src="https://github-readme-stats.vercel.app/api?username=narayani2327&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&&show_icons=true" alt="narayani2327's GitHub stats" /></a>
 
-<a href="http://www.github.com/narayani2327"><img src="https://github-readme-streak-stats.herokuapp.com/?user=narayani2327&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/narayani2327"><img src="https://github-readme-streak-stats.herokuapp.com/?user=narayani2327&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
 
-<a href="http://www.github.com/narayani2327"><img src="https://activity-graph.herokuapp.com/graph?username=narayani2327&bg_color=1c1917&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/narayani2327"><img src="https://activity-graph.herokuapp.com/graph?username=narayani2327&bg_color=1c1917&line=0891b2&point=ffffff&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/narayani2327" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayani2327&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
