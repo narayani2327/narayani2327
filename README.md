@@ -42,7 +42,7 @@ I am a 3rd BE CSE student in NIE, Mysore. I love learning new things and impleme
 
 <a href="http://www.github.com/narayani2327"><img src="https://github-readme-streak-stats.herokuapp.com/?user=narayani2327&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" /></a>
 
-<a href="http://www.github.com/narayani2327"><img src="https://activity-graph.herokuapp.com/graph?username=narayani2327&line=0891b2&point=ffffff&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/narayani2327"><img src="https://activity-graph.herokuapp.com/graph?username=narayani2327&line=0891b2&point=ffffff&area_color=ffffff&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/narayani2327" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayani2327&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
